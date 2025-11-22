@@ -1,0 +1,197 @@
+/* https://coolors.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff-fffffc */
+
+body{
+   background: #ccf6fb; 
+   text-align: center;
+}
+
+#name {
+  color: #ff4d6d;
+  font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+}
+#intro {
+  color: #b185db;
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  font-size: 22px;
+  padding-right: 50px;
+  padding-left: 50px;
+  letter-spacing: 1.5px;
+  word-spacing: 2px;
+}
+#coding {
+  background-color: #b7e4c7;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 5px;
+  border-radius: 12px;
+}
+#art {
+  background-color: #fff2b2;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 5px;
+  border-radius: 12px;
+  
+}
+#cb1 {
+  background-color: #ffcfd2;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: #ff8fa3 4px 6px 2px;
+  border-color: white;
+  letter-spacing: 2px;
+}
+#cb2 {
+  background-color: #fbf8cc;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: #f9c74f 4px 6px 2px;
+  border-color: white;
+  margin-left:20px;
+  letter-spacing: 2px;
+}
+
+#cb3 {
+  background-color: #b9fbc0;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: #74c69d 4px 6px 2px;
+  border-color: white;
+  margin-left:20px;
+  letter-spacing: 2px;
+}
+#cb4 {
+  background-color: #8eecf5;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: #00b4d8 4px 6px 2px;
+  border-color: white;
+  margin-left:20px;
+  letter-spacing: 2px;
+
+}
+#cb5 {
+  background-color: #61a5c2;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: #1b4965 4px 6px 2px;
+  border-color: white;
+  margin-left:20px;
+  letter-spacing: 2px;
+}
+#cb6 {
+  background-color: #cfbaf0;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 18px; 
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: rgb(158, 80, 158) 4px 6px 2px;
+  border-color: white;
+  margin-left:20px;
+  letter-spacing: 2px;
+}
+
+
+#projects{
+ display:flex ;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+
+}
+
+.project{
+
+}
+
+.project img{
+  height: 300px;
+  width: 300px;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: teal;
+}
+iframe{
+width: 80%;
+}
+.home{
+
+
+  background-color: #fdb6c3;
+  color:black;
+  font-family:"Bungee Shade", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 20px; 
+  padding: 5px;
+  border-radius: 12px;
+}
+
+.h1{
+  color: #ff4d6d;
+  font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.h4{
+  color: #b185db;
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  font-size: 22px;
+  padding-right: 50px;
+  padding-left: 50px;
+  letter-spacing: 1.5px;
+  word-spacing: 2px;
+}
+#contact{
+  color: #b185db;
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  font-size: 22px;
+  padding-right: 50px;
+  padding-left: 50px;
+  letter-spacing: 1.5px;
+  word-spacing: 2px;
+}
+
